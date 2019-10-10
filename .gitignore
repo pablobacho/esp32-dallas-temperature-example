@@ -1,0 +1,11 @@
+# ESP-IDF
+build/*
+sdkconfig.old
+
+# .vscode ipch folder
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+

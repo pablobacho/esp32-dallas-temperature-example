@@ -1,0 +1,3 @@
+[submodule "components/esp32-dallas-temperature"]
+	path = components/esp32-dallas-temperature
+	url = git@github.com:pablobacho/esp32-dallas-temperature.git
